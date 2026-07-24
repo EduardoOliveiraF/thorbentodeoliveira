@@ -1,17 +1,18 @@
-
 body {
 
-    background: linear-gradient(to bottom, #DFF6FF, #A2D2FF, #5FA8F5);
+    background: #f5f8fc;
+
+    transition: .5s;
 
     font-family: "Fredoka", sans-serif;
-    
-    transition: .5s;
+
+    background: linear-gradient(to bottom, #DFF6FF, #A2D2FF, #5FA8F5);
 
 }
 
 .navbar {
 
-    background: #8F673D;
+    background: #dff4ff;
 
 }
 
