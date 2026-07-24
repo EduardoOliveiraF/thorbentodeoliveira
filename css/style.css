@@ -1,13 +1,11 @@
 
 body {
 
-    background: #8F673D;
-
-    transition: .5s;
+    background: linear-gradient(to bottom, #DFF6FF, #A2D2FF, #5FA8F5);
 
     font-family: "Fredoka", sans-serif;
-
-    background: linear-gradient(to bottom, #DFF6FF, #A2D2FF, #5FA8F5);
+    
+    transition: .5s;
 
 }
 
