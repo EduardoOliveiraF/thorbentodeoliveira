@@ -1,9 +1,10 @@
 body {
 
-    font-family: "Fredoka", sans-serif;
+      transition: .5s;
 
-    background: #A38348;
+      font-family: "Fredoka", sans-serif;
 
+      background: linear-gradient(to bottom, #CDB78E, #BFA36E, #B18E4E);
 }
 
 .navbar {
