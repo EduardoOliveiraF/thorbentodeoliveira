@@ -14,11 +14,11 @@ function tema() {
 
     if (escuro) {
 
-        imagem.src = "imagens/icone-tema.jpg";
+        imagem.src = "imagens/escuro.png";
 
     } else {
 
-        imagem.src = "imagens/escuro.png";
+        imagem.src = "imagens/icone-tema.jpg";
 
     }
 
