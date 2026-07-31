@@ -14,11 +14,11 @@ function tema() {
 
     if (escuro) {
 
-        imagem.src = "imagens/slime-noite.png";
+        imagem.src = "imagens/icone-tema.jpg";
 
     } else {
 
-        imagem.src = "imagens/slime-dia (1).png";
+        imagem.src = "imagens/escuro.png";
 
     }
 
